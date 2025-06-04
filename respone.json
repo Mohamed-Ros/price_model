@@ -1,0 +1,29 @@
+{
+  "production_date": "2025-01-01",
+  "expiry_date": "2025-08-01",
+  "price_fresh": 100.0
+}
+
+
+
+{
+  "price_fresh": 100.0,
+  "months_left_until_expiry": 2,
+  "discount_applied_percent": 19.0,
+  "predicted_price": 81.0,
+  "current_date": "2025-05-22",
+  "production_date": "2025-01-01",
+  "expiry_date": "2025-08-01"
+}
+
+
+{
+  "error": "رسالة الخطأ"
+}
+
+
+{
+  "question": "ما هو موعد انتهاء صلاحية المنتج؟"
+}
+
+
