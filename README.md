@@ -27,7 +27,7 @@ POST /chat
 #### Request Body
 ```json
 {
-  "question": "ما هو الذكاء الاصطناعي؟",
+  "question": "ما هو يابلاش؟",
   "lang": "ar"
 }
 ```
@@ -35,7 +35,7 @@ POST /chat
 #### Response
 ```json
 {
-  "answer": "الذكاء الاصطناعي هو..."
+  "answer": "يابلاش هو..."
 }
 ```
 
