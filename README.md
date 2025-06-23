@@ -1,4 +1,4 @@
-# 🧠 AI Arabic/English Chatbot & Smart Product Price Predictor using FastAPI
+#  AI Arabic/English Chatbot & Smart Product Price Predictor using FastAPI
 
 This repository contains two FastAPI-based microservices:
 
@@ -7,7 +7,7 @@ This repository contains two FastAPI-based microservices:
 
 ---
 
-## 🧠 1. AI Chatbot (Arabic/English Support)
+##  1. AI Chatbot (Arabic/English Support)
 
 ### Description
 This service answers user questions in **Arabic** or **English** by computing semantic similarity between the user's question and a predefined Q&A dataset.
@@ -52,7 +52,7 @@ uvicorn model_chatbot:app --reload --port 8000
 
 ---
 
-## 🧮 2. Smart Product Price Predictor
+##  2. Smart Product Price Predictor
 
 ### Description
 This service calculates a **discounted product price** based on its **expiry date**, using linear interpolation for discount rates.
@@ -100,7 +100,7 @@ uvicorn main:app --reload --port 8001
 
 ---
 
-## 🧳 Project Structure
+##  Project Structure
 
 ```
 ├── model_chatbot.py         # Chatbot service (port 8000)
@@ -112,14 +112,14 @@ uvicorn main:app --reload --port 8001
 
 ---
 
-## ⚠️ Notes
+## ⚠ Notes
 - Ensure your environment has Python 3.7+.
 - For Arabic processing, proper encoding (UTF-8) is used.
 - You can deploy these services independently using Docker or any cloud backend (Heroku, AWS, etc.).
 
 ---
 
-## 📬 Contact
+##  Contact
 Developed by   
 For inquiries: 
 
